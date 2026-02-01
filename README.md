@@ -1,5 +1,10 @@
 # Windows Hello Animation
 
+<div align="center">
+  <img src="public/1.jpg" alt="Screenshot 1" width="45%" />
+  <img src="public/2.jpg" alt="Screenshot 2" width="45%" />
+</div>
+
 Una animación interactiva inspirada en la pantalla de bienvenida de Windows Hello, creada con JavaScript vanilla y animaciones SVG.
 
 ## 📋 Descripción
